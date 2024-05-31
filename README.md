@@ -23,10 +23,10 @@ I Explored a wide range of SQL statements and clauses, each revealing new layers
 9 Ensured query readability with Common Table Expressions (CTEs)
 
 # Project Source: DataQuest (Youtube Statistics)
-(Click to see questions)[https://www.dataquest.io/blog/sql-projects/]
+[Click to see questions](https://www.dataquest.io/blog/sql-projects/)
 
 # Data Source  
-(click to download data sets)[https://www.dataquest.io/blog/sql-projects/)
+[click to download data sets](https://www.dataquest.io/blog/sql-projects/)
 
 ## See snippets
 ```
